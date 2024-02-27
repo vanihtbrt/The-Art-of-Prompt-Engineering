@@ -1,5 +1,5 @@
 # The Arf of Prompt Engineering 
-## Author : 
+## Author : @sinanazeri
 ## Mentee assignment from IBM Advance AI @Infinite Learning Course Completion of The Arf of Prompt Engineering from CognitiveClass.ai
 ## >>>>>>>>>><<<<<<<<<<<<<
 ### Mentee Info 
