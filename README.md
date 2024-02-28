@@ -1,5 +1,5 @@
 # The Arf of Prompt Engineering 
-## Author : @sinanazeri
+## Author : CognitiveClass
 ## Mentee assignment from IBM Advance AI @Infinite Learning Course Completion of The Arf of Prompt Engineering from CognitiveClass.ai
 ## >>>>>>>>>><<<<<<<<<<<<<
 ### Mentee Info 
@@ -8,7 +8,5 @@
 ## >>>>>>>>>><<<<<<<<<<<<<
 ## Tech Stack :
 ### 1. Python
-### 2. HMTL
-### 3. CSS
-### 4. JavaScript
-### 5. Flask
+### 2. JupyterNotebook
+
